@@ -1,7 +1,21 @@
 {
-    "name": "testProject",
-        "scripts": {
-        "serve": "vue-cli-service serve",
-            "build": "vue-cli-service build"
-    },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "mytest",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XKArthur/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XKArthur/test/issues"
+  },
+  "homepage": "https://github.com/XKArthur/test#readme"
 }
